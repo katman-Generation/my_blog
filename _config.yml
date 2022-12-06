@@ -27,6 +27,21 @@ url: "https://katman-generation.github.io" # the base hostname & protocol for yo
 twitter_username: KatemaTatenda
 github_username:  katman-Generation
 
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for post, the Atom feed, and i used in the footer
+
+author: Tatenda Katema
+linkedin_username: tatenda-katema
+facebook_username: KG Foundation
+
+#copyright: company name, Inc.
+copyright: "Katman Generation"
+
+# title-logo is a neew field that, when used, displays a logo
+# instead of custom text. Ideally, image is 50px high and takes up 
+#minimal horizontal space. Tested with a new root "images" folder e,g:
+title-logo: /images/portfolio-title-logo,png
+
 # Build settings
 # renoved minima theme as it is now a regular theme.
 # theme: minima
