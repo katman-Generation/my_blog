@@ -28,7 +28,8 @@ twitter_username: KatemaTatenda
 github_username:  katman-Generation
 
 # Build settings
-theme: minima
+# renoved minima theme as it is now a regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
